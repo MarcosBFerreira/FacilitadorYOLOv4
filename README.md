@@ -9,3 +9,7 @@
     <li>Selenium == 4.9.1</li>
   </ul>
 </div>
+
+<div>
+  <h3>Última atualização: 02/06/2023</h3>
+</div>
