@@ -41,6 +41,8 @@
     </ul>
   </ul>
 </div>
+
+<br>
 <div>
   <h3>Última atualização:</h3>
   <ul>
