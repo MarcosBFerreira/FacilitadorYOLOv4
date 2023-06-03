@@ -1,18 +1,22 @@
 def gerar_imagem_ia():
     from selenium import webdriver
     from selenium.webdriver.chrome.service import Service as ChromeService
+    from selenium.webdriver.chromium.service import ChromiumService
     from selenium.webdriver.common.by import By
     from webdriver_manager.chrome import ChromeDriverManager
+    from webdriver_manager.opera import OperaDriverManager
     from skimage import io
     import cv2
     import os
     import time
 
-
-    options = webdriver.ChromeOptions()
-    options.add_argument("--headless=new")
-    navegador = webdriver.Chrome(service=ChromeService(ChromeDriverManager().install()), options=options)
-    #navegador = webdriver.Chrome(service=ChromeService(ChromeDriverManager().install()))
+    try:
+        options = webdriver.ChromeOptions()
+        options.add_argument("--headless=new")
+        navegador = webdriver.Chrome(service=ChromeService(ChromeDriverManager().install()), options=options)
+        #navegador = webdriver.Chrome(service=ChromeService(ChromeDriverManager().install()))
+    except:
+        print('Você não tem o Google Chrome instalado')
 
     try:
         num_arquivos_pasta = len(os.listdir('Dados'))
