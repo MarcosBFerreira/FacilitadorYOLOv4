@@ -15,6 +15,12 @@
   </ul>
 </div>
 <div>
+  <h3>Versão do Python</h3>
+  <ul>
+    <li>3.11</li>
+  </ul>
+</div>
+<div>
   <h2>Como Utilizar a Ferramenta</h2>
   <ul>
     <li>1º Passo:</li>
