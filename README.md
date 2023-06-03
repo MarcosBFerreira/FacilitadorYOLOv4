@@ -48,7 +48,7 @@
   <a href='https://www.mediafire.com/file/oh2sy2cig3skkid/FacilitadorYOLOv4.exe/file'><img height='30px' src='https://img.shields.io/badge/-Download%20Windows-blue?style=for-the-badge'></a>
 </div>
 <div>
-  <h3>Observações</h3>
+  <h3>Observações:</h3>
   <ul>
     <p>As imagens geras pela última ferramenta será armazenada na pasta "Dados"</p>
   </ul>
