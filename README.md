@@ -27,7 +27,7 @@
   <h3>Requesitos</h3>
   <ul>
     <ul>
-      <li>Para utilizar o Gerador de Imagens por Inteligência Artificial</li>
+      <li>Gerador de Imagens por Inteligência Artificial</li>
       <ul>
         <p>Para a execução do software, precisamos que pelo menos um desses navegadores esteja instalado no seu computador:</p>
         <ul>
