@@ -26,7 +26,7 @@
   </ul>
   <h3>Requesitos</h3>
   <ul>
-    <ul>
+    <ul type='disc'>
       <li>Gerador de Imagens por Inteligência Artificial</li>
       <br>
       <ul>
