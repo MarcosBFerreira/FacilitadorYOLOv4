@@ -28,6 +28,7 @@
   <ul>
     <ul>
       <li>Gerador de Imagens por Inteligência Artificial</li>
+      <br>
       <ul>
         <img height='30px' src='https://img.shields.io/badge/Google_chrome-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white'>
         <img height='30px' src='https://img.shields.io/badge/Microsoft_Edge-0078D7?style=for-the-badge&logo=Microsoft-edge&logoColor=white'>
