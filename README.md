@@ -41,7 +41,7 @@
     <li>3º Passo:</li>
     <br>
     <ul>
-      <p>Utilize o comando <code>python.exe ferramentas.py</code> (se for no Windows) ou <code>python ferramentas.py</code> (se for no Linux)</p>
+      <p>Utilize o comando <code>python.exe ferramentas.py</code> (se for no Windows) ou <code>python3.11 ferramentas.py</code> (se for no Linux)</p>
     </ul>
   </ul>
 </div>
