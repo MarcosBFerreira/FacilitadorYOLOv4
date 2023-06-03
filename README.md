@@ -26,7 +26,12 @@
     <li>1º Passo:</li>
     <br>
     <ul>
-      <p>Utilize o comando <code>pip install -r requeriments.txt</code></p>
+      <p>Abra o Prompt de Comando ou o Terminal na pasta do programa</code></p>
+    </ul>
+    <li>2º Passo:</li>
+    <br>
+    <ul>
+      <p>Utilize o comando <code>pip install -r requeriments.txt</p>
     </ul>
   </ul>
 </div>
