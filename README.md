@@ -44,6 +44,11 @@
 
 <br>
 <div>
+  <h2>Download do Executável para Windows<h2>
+  <a href='https://www.mediafire.com/file/oh2sy2cig3skkid/FacilitadorYOLOv4.exe/file'><img height='30px' src='https://img.shields.io/badge/-Download%20Windows-blue?style=for-the-badge'></a>
+</div>
+<br>
+<div>
   <h3>Última atualização:</h3>
   <ul>
     <li>02/06/2023</li>
