@@ -28,10 +28,11 @@
   <ul>
     <ul>
       <li>Gerador de Imagens por Inteligência Artificial</li>
-      <img height='30px' src='https://img.shields.io/badge/Google_chrome-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white'>
-      <img height='30px' src='https://img.shields.io/badge/Microsoft_Edge-0078D7?style=for-the-badge&logo=Microsoft-edge&logoColor=white'>
-      <img height='30px' src='https://img.shields.io/badge/Firefox_Browser-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white'>
-    </ul>
+      <ul>
+        <img height='30px' src='https://img.shields.io/badge/Google_chrome-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white'>
+        <img height='30px' src='https://img.shields.io/badge/Microsoft_Edge-0078D7?style=for-the-badge&logo=Microsoft-edge&logoColor=white'>
+        <img height='30px' src='https://img.shields.io/badge/Firefox_Browser-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white'>
+      </ul>
     </ul>
   </ul>
 </div>
