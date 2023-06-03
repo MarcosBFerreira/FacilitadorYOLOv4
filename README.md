@@ -18,7 +18,9 @@
   <h2>Como Utilizar a Ferramenta</h2>
   <ul>
     <li>1º Passo:</li>
-    <p>Utilize o comando <code>pip install -r requeriments.txt</code></p>
+    <ul>
+      <p>Utilize o comando <code>pip install -r requeriments.txt</code></p>
+    </ul>
   </ul>
 </div>
 <div>
