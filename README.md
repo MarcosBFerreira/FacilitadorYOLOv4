@@ -31,7 +31,12 @@
     <li>2º Passo:</li>
     <br>
     <ul>
-  <p>Utilize o comando <code>pip install -r requeriments.txt</code></p>
+      <p>Utilize o comando <code>pip install -r requeriments.txt</code></p>
+    </ul>
+    <li>3º Passo:</li>
+    <br>
+    <ul>
+      <p>Utilize o comando <code>python.exe ferramentas.py</code> (se for no Windows) ou <code>python ferramentas.py</code> (se for no Linux)</p>
     </ul>
   </ul>
 </div>
