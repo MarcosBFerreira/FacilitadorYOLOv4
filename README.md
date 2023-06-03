@@ -14,7 +14,10 @@
     <li>Webdriver-Manager == 3.8.6</li>
   </ul>
 </div>
-
+<div>
+  <h2>Como Utilizar a Ferramenta</h2>
+  <li>1º Passo:</li>
+</div>
 <div>
   <h3>Última atualização:</h3>
   <ul>
