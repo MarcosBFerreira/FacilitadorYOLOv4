@@ -19,6 +19,10 @@
   <ul>
     <li>3.11</li>
   </ul>
+  <h3>Requesitos</h3>
+  <ul>
+    <li>Ter o Google Chrome instalado na máquina</li>
+  </ul>
 </div>
 <br>
 <div>
