@@ -16,7 +16,9 @@
 </div>
 <div>
   <h2>Como Utilizar a Ferramenta</h2>
-  <li>1º Passo:</li>
+  <ul>
+    <li>1º Passo:</li>
+  </ul>
 </div>
 <div>
   <h3>Última atualização:</h3>
