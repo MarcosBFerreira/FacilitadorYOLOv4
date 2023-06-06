@@ -20,7 +20,7 @@ def gerar_imagem_ia():
         # TENTANDO USAR O CHROME
         print('Tentando com o Chrome')
         options = webdriver.ChromeOptions()
-        #options.add_argument("--headless=new")
+        options.add_argument("--headless=new")
         navegador = webdriver.Chrome(service=ChromeService(ChromeDriverManager().install()), options=options)
         # navegador = webdriver.Chrome(service=ChromeService(ChromeDriverManager().install()))
         navegador.get('https://www.bing.com/create')
