@@ -62,7 +62,7 @@
 <br>
 <div>
   <h2>Download do Executável para Windows<h2>
-  <a href='https://www.mediafire.com/file/wfr3xjlchqy9iky/FacilitadorYOLOv4.exe/file'><img height='30px' src='https://img.shields.io/badge/-Download%20Windows-blue?style=for-the-badge'></a>
+  <a href='https://www.mediafire.com/file/mt44xu24qgm0pkn/FacilitadorYOLOv4.exe/file'><img height='30px' src='https://img.shields.io/badge/-Download%20Windows-blue?style=for-the-badge'></a>
 </div>
 <div>
   <h3>Observações:</h3>
