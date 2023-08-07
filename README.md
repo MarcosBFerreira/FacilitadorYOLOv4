@@ -16,7 +16,7 @@
     <li>Duckduckgo-Search == 3.8.0</li>
     <li>Opencv-Python == 4.7.0.72</li>
     <li>Scikit-Image == 0.20.0</li>
-    <li>Webdriver-Manager == 3.8.6</li>
+    <li>Webdriver-Manager == 4.0.0</li>
   </ul>
 </div>
 <div>
