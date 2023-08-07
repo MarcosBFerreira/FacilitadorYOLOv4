@@ -73,6 +73,6 @@
 <div>
   <h3>Última atualização:</h3>
   <ul>
-    <li>03/06/2023</li>
+    <li>07/08/2023</li>
   </ul>
 </div>
